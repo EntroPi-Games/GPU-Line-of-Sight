@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 29a2e70ee791be24696752203b796311
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_MaskExcludeShader: {fileID: 4800000, guid: 8d2d5555a0978954cbcadc2808e2893a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
